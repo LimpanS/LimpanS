@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LimpanS
-- 👀 I’m interested 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 LimpanS/LimpanS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
