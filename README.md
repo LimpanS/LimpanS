@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LimpanS
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m Ludwig or @LimpanS!
+- 🌱 I’m currently studying .NET at a polytechnic school here in Sweden.  
 
 
 <!---
